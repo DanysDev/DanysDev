@@ -11,11 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<a href="https://twitter.com/danysdev" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="danysdev" height="50" width="50" /></a>
-  
-<a href="https://linkedin.com/in/danysdev" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="danysdev" height="50" width="50" /></a>
-  
+<a href="https://twitter.com/danysdev" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="danysdev" height="50" width="50" /></a> <a href="https://linkedin.com/in/danysdev" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="danysdev" height="50" width="50" /></a>
 </p>
 
 
