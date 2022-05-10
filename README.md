@@ -14,7 +14,7 @@
   
 <a href="https://twitter.com/danysdev" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/twitter.png" alt="danysdev" height="50" width="50" /></a>
   
-<a href="https://linkedin.com/in/danysdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danysdev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/danysdev" target="_blank"><img align="center" src="https://img.icons8.com/fluency/96/000000/linkedin.png" alt="danysdev" height="50" width="50" /></a>
   
 </p>
 
