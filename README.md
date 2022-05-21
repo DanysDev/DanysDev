@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, me llamo Ordanys Clemente</h1>
 <h3 align="center">Frontend Developer apasionado.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **CSS, SASS, Javascript**
+- 🌱 Actualmente estoy aprendiendo **CSS, SASS, Javascript, Reactjs**
 
 - 💬 Preguntame sobre **HTML, CSS y javascript**
 
