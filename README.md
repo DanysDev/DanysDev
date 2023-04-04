@@ -2,11 +2,11 @@
 <h3 align="center">Frontend Developer apasionado.</h3>
 
 
-- 🌱 Actualmente estoy aprendiendo **CSS, SASS, Javascript, React**
+- 🌱 Actualmente estoy aprendiendo **CSS, SASS, Javascript, Angular**
 
 
 
-- 💬 Preguntame sobre **HTML, CSS y javascript**
+- 💬 Preguntame sobre **HTML, CSS, Typescript, Angular**
 
 
 
