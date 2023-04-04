@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer con Angular.</h3>
 
 
-- 🌱 Actualmente estoy aprendiendo **CSS, SASS, Javascript, Angular**
+- 🌱 Actualmente estoy aprendiendo **Typescript, Angular**
 
 
 
